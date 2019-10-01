@@ -1,0 +1,17 @@
+html {
+    background-color: lightblue;
+}
+
+body {
+    background-color:white;
+    width:700px;
+    margin: 0 auto;
+    padding: 25px 50px 75px 50px;
+}
+
+
+
+h1 {
+    font-weight: bold;
+    color:lightblue;
+}
